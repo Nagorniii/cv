@@ -1,0 +1,44 @@
+
+body
+{
+  background-color:#d6e0f0;
+}
+hr
+{
+  height:5px;
+  width: 50%;
+  border-style: dashed none none;
+  border-width: medium;
+  border-color: grey;
+}
+h1
+{
+  color:#0f4c75;
+}
+h3
+{
+  color:#0f4c75;
+  display:block;
+}
+.blackh3
+{
+  color:black;
+  text-decoration: underline;
+}
+.georgia
+{
+  font-family: georgia,serif;
+}
+img:hover
+{
+  background-color: white;
+}
+.hover:hover
+{
+  background-color: white;
+  font-family: georgia,serif;
+}
+#me
+{
+  font-family: 'Syne Mono',Times,serif, monospace;
+}
